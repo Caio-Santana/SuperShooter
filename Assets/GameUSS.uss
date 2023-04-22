@@ -1,0 +1,9 @@
+.HUDText {
+    position: absolute;
+    -unity-font: ;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    align-items: stretch;
+    -unity-text-align: upper-right;
+    -unity-font-definition: resource('Fonts & Materials/militech_r_2019-04-13 SDF');
+}
